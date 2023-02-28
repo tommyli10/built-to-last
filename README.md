@@ -1,6 +1,6 @@
 # Built-to-Last
 Client website providing company's information as well as vision and mission statement which were key to the client.  Client wanted to display their work using youtube video as well.
-**Link to project:** https://github.com/LHuynh05/Built-to-Last
+**Live Site:** https://builttolastcali.netlify.app/
 
 ![alt tag](https://media.giphy.com/media/gxJJpI7wimhoINJ1hQ/giphy.gif)
 
